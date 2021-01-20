@@ -1,15 +1,15 @@
-# Mélanie Guérin
+<h1 align="center"> Mélanie Guérin </h1>
 
-<div align="center">Je suis gestionnaire de projets et d'équipe en développement</div>
+<h3 align="center">Je suis gestionnaire de projets et d'équipe en développement</h3>
 
-:computer: Je travialles chez [FJNR](fjnr.ca)
+* :computer: Je travialles chez [FJNR](fjnr.ca)
 
-:snake: Bénévole à PMontréal Python
+* :snake: Bénévole à [Montréal Python](https://montrealpython.org/fr/)
 
-:mag_right:Ancienne apprentit chercheuse en bioloie cellulaire et moléculaire
+* :mag_right:Ancienne apprentie chercheuse en biologie cellulaire et moléculaire
 
-:camera: Passionné de photo
+* :camera: Passionnée de photo
 
-:mailbox: melanie.guerin@fjnr.ca
-
-:telephone_receiver: +1 (438)-929-7643
+<p align="right">
+:mailbox: melanie.guerin@fjnr.ca <br/>
+:telephone_receiver: +1 (438)-929-7643</p>
