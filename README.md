@@ -2,7 +2,7 @@
 
 <h3 align="center">Je suis gestionnaire de projets et d'équipe en développement</h3>
 
-* :computer: Je travialles chez [FJNR](fjnr.ca)
+* :computer: Je travailles chez [FJNR](fjnr.ca)
 
 * :snake: Bénévole à [Montréal Python](https://montrealpython.org/fr/)
 
