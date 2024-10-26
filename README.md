@@ -2,9 +2,9 @@
 
 <h3 align="center">Je suis gestionnaire de projets et d'équipe en développement</h3>
 
-* :computer: Je travaille chez [FJNR](fjnr.ca)
+* :computer: Associer et Gestionnaire de projet numérique à [FJNR](fjnr.ca)
 
-* :snake: Bénévole à [Montréal Python](https://montrealpython.org/fr/)
+* :snake: Précidente de [Montréal Python](https://montrealpython.org/fr/)
 
 * :mag_right:Ancienne apprentie chercheuse en biologie cellulaire et moléculaire
 
