@@ -6,10 +6,9 @@
 
 * :snake: Présidente de [Montréal Python](https://montrealpython.org/fr/)
 
-* :mag_right:Ancienne apprentie chercheuse en biologie cellulaire et moléculaire
+* :mag_right: Ancienne apprentie chercheuse en biologie cellulaire et moléculaire
 
-* :camera: Passionnée de photo
+* :camera: Passionnée de photo et de théâtre
 
 <p align="right">
-:mailbox: melanie.guerin@fjnr.ca <br/>
-:telephone_receiver: +1 (438)-929-7643</p>
+:mailbox: melanie.guerin@fjnr.ca </p>
